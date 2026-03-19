@@ -1,0 +1,25 @@
+# NetBeans files (ye mat upload karo)
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+build/
+
+# Maven files (ye mat upload karo)
+target/
+*.war
+*.log
+pom.xml.tag
+
+# Eclipse files (agar use karte ho)
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
